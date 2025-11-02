@@ -33,10 +33,15 @@
   }
 }
 
-.card {
-  padding: 2em;
+.keyboard {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
 }
 
-.read-the-docs {
-  color: #888;
+.key {
+  width: 50px;
+  height: 3rem;
+  background-color: #B5B5B5;
+  color: #000;
 }
