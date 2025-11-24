@@ -1,6 +1,6 @@
 import keys from '../keyboard-codes.json';
 
-export default class Key {
+export class Key {
     code: string
     symbol: string
 
@@ -25,11 +25,3 @@ export default class Key {
 
 const allKeys = Key.getAllKeys()
 console.log(allKeys)
-
-export function getKeySymbols() {
-    let keySymbols =[]
-    for (const k of allKeys) {
-        keySymbols.push(k.symbol)
-    }
-    return keySymbols
-}
