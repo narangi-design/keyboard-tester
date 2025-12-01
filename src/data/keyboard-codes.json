@@ -1,0 +1,534 @@
+[
+  {
+    "Symbol": "0",
+    "Code": "Digit0"
+  },
+  {
+    "Symbol": "0",
+    "Code": "Numpad0"
+  },
+  {
+    "Symbol": "1",
+    "Code": "Digit1"
+  },
+  {
+    "Symbol": "1",
+    "Code": "Numpad1"
+  },
+  {
+    "Symbol": "2",
+    "Code": "Digit2"
+  },
+  {
+    "Symbol": "2",
+    "Code": "Numpad2"
+  },
+  {
+    "Symbol": "3",
+    "Code": "Digit3"
+  },
+  {
+    "Symbol": "3",
+    "Code": "Numpad3"
+  },
+  {
+    "Symbol": "4",
+    "Code": "Digit4"
+  },
+  {
+    "Symbol": "4",
+    "Code": "Numpad4"
+  },
+  {
+    "Symbol": "5",
+    "Code": "Digit5"
+  },
+  {
+    "Symbol": "5",
+    "Code": "Numpad5"
+  },
+  {
+    "Symbol": "6",
+    "Code": "Digit6"
+  },
+  {
+    "Symbol": "6",
+    "Code": "Numpad6"
+  },
+  {
+    "Symbol": "7",
+    "Code": "Digit7"
+  },
+  {
+    "Symbol": "7",
+    "Code": "Numpad7"
+  },
+  {
+    "Symbol": "8",
+    "Code": "Digit8"
+  },
+  {
+    "Symbol": "8",
+    "Code": "Numpad8"
+  },
+  {
+    "Symbol": "9",
+    "Code": "Digit9"
+  },
+  {
+    "Symbol": "9",
+    "Code": "Numpad9"
+  },
+  {
+    "Symbol": "-",
+    "Code": "Minus"
+  },
+  {
+    "Symbol": "-",
+    "Code": "NumpadSubtract"
+  },
+  {
+    "Symbol": ",",
+    "Code": "Comma"
+  },
+  {
+    "Symbol": ",",
+    "Code": "NumpadDecimal"
+  },
+  {
+    "Symbol": ";",
+    "Code": "Semicolon"
+  },
+  {
+    "Symbol": ".",
+    "Code": "NumpadComma"
+  },
+  {
+    "Symbol": ".",
+    "Code": "Period"
+  },
+  {
+    "Symbol": "[",
+    "Code": "BracketLeft"
+  },
+  {
+    "Symbol": "]",
+    "Code": "BracketRight"
+  },
+  {
+    "Symbol": "{",
+    "Code": "BracketLeft"
+  },
+  {
+    "Symbol": "}",
+    "Code": "BracketRight"
+  },
+  {
+    "Symbol": "*",
+    "Code": "NumpadMultiply"
+  },
+  {
+    "Symbol": "/",
+    "Code": "IntlRo"
+  },
+  {
+    "Symbol": "/",
+    "Code": "NumpadDivide"
+  },
+  {
+    "Symbol": "/",
+    "Code": "Slash"
+  },
+  {
+    "Symbol": "\\",
+    "Code": "Backslash"
+  },
+  {
+    "Symbol": "\\",
+    "Code": "IntlBackslash"
+  },
+  {
+    "Symbol": "#",
+    "Code": "Backquote"
+  },
+  {
+    "Symbol": "`",
+    "Code": "Backquote"
+  },
+  {
+    "Symbol": "'",
+    "Code": "Quote"
+  },
+  {
+    "Symbol": "+",
+    "Code": "NumpadAdd"
+  },
+  {
+    "Symbol": "=",
+    "Code": "Equal"
+  },
+  {
+    "Symbol": "A",
+    "Code": "KeyA"
+  },
+  {
+    "Symbol": "Alt",
+    "Code": "AltLeft"
+  },
+  {
+    "Symbol": "Alt",
+    "Code": "AltRight"
+  },
+  {
+    "Symbol": "ArrowDown",
+    "Code": "ArrowDown"
+  },
+  {
+    "Symbol": "ArrowLeft",
+    "Code": "ArrowLeft"
+  },
+  {
+    "Symbol": "ArrowRight",
+    "Code": "ArrowRight"
+  },
+  {
+    "Symbol": "ArrowUp",
+    "Code": "ArrowUp"
+  },
+  {
+    "Symbol": "B",
+    "Code": "KeyB"
+  },
+  {
+    "Symbol": "Backspace",
+    "Code": "Backspace"
+  },
+  {
+    "Symbol": "C",
+    "Code": "KeyC"
+  },
+  {
+    "Symbol": "CapsLock",
+    "Code": "CapsLock"
+  },
+  {
+    "Symbol": "Clear",
+    "Code": "NumLock"
+  },
+  {
+    "Symbol": "ContextMenu",
+    "Code": "ContextMenu"
+  },
+  {
+    "Symbol": "Ctrl",
+    "Code": "ControlLeft"
+  },
+  {
+    "Symbol": "Ctrl",
+    "Code": "ControlRight"
+  },
+  {
+    "Symbol": "D",
+    "Code": "KeyD"
+  },
+  {
+    "Symbol": "Dead",
+    "Code": "Backquote"
+  },
+  {
+    "Symbol": "E",
+    "Code": "KeyE"
+  },
+  {
+    "Symbol": "Enter",
+    "Code": "Enter"
+  },
+  {
+    "Symbol": "Escape",
+    "Code": "Escape"
+  },
+  {
+    "Symbol": "F",
+    "Code": "KeyF"
+  },
+  {
+    "Symbol": "F1",
+    "Code": "F1"
+  },
+  {
+    "Symbol": "F10",
+    "Code": "F10"
+  },
+  {
+    "Symbol": "F11",
+    "Code": "F11"
+  },
+  {
+    "Symbol": "F12",
+    "Code": "F12"
+  },
+  {
+    "Symbol": "F13",
+    "Code": "F13"
+  },
+  {
+    "Symbol": "F13",
+    "Code": "F13"
+  },
+  {
+    "Symbol": "F14",
+    "Code": "F14"
+  },
+  {
+    "Symbol": "F15",
+    "Code": "F15"
+  },
+  {
+    "Symbol": "F16",
+    "Code": "F16"
+  },
+  {
+    "Symbol": "F17",
+    "Code": "F17"
+  },
+  {
+    "Symbol": "F18",
+    "Code": "F18"
+  },
+  {
+    "Symbol": "F19",
+    "Code": "F19"
+  },
+  {
+    "Symbol": "F2",
+    "Code": "F2"
+  },
+  {
+    "Symbol": "F20",
+    "Code": "F20"
+  },
+  {
+    "Symbol": "F21",
+    "Code": "F21"
+  },
+  {
+    "Symbol": "F22",
+    "Code": "F22"
+  },
+  {
+    "Symbol": "F23",
+    "Code": "F23"
+  },
+  {
+    "Symbol": "F24",
+    "Code": "F24"
+  },
+  {
+    "Symbol": "F25",
+    "Code": "F25"
+  },
+  {
+    "Symbol": "F26",
+    "Code": "F26"
+  },
+  {
+    "Symbol": "F27",
+    "Code": "F27"
+  },
+  {
+    "Symbol": "F28",
+    "Code": "F28"
+  },
+  {
+    "Symbol": "F29",
+    "Code": "F29"
+  },
+  {
+    "Symbol": "F3",
+    "Code": "F3"
+  },
+  {
+    "Symbol": "F30",
+    "Code": "F30"
+  },
+  {
+    "Symbol": "F31",
+    "Code": "F31"
+  },
+  {
+    "Symbol": "F32",
+    "Code": "F32"
+  },
+  {
+    "Symbol": "F4",
+    "Code": "F4"
+  },
+  {
+    "Symbol": "F5",
+    "Code": "F5"
+  },
+  {
+    "Symbol": "F6",
+    "Code": "F6"
+  },
+  {
+    "Symbol": "F7",
+    "Code": "F7"
+  },
+  {
+    "Symbol": "F8",
+    "Code": "F8"
+  },
+  {
+    "Symbol": "F9",
+    "Code": "F9"
+  },
+  {
+    "Symbol": "G",
+    "Code": "KeyG"
+  },
+  {
+    "Symbol": "H",
+    "Code": "KeyH"
+  },
+  {
+    "Symbol": "I",
+    "Code": "KeyI"
+  },
+  {
+    "Symbol": "Insert",
+    "Code": "Numpad0"
+  },
+  {
+    "Symbol": "J",
+    "Code": "KeyJ"
+  },
+  {
+    "Symbol": "K",
+    "Code": "KeyK"
+  },
+  {
+    "Symbol": "L",
+    "Code": "KeyL"
+  },
+  {
+    "Symbol": "M",
+    "Code": "KeyM"
+  },
+  {
+    "Symbol": "Meta",
+    "Code": "MetaLeft"
+  },
+  {
+    "Symbol": "Meta",
+    "Code": "MetaRight"
+  },
+  {
+    "Symbol": "Meta",
+    "Code": "OSLeft"
+  },
+  {
+    "Symbol": "Mute",
+    "Code": "VolumeMute"
+  },
+  {
+    "Symbol": "N",
+    "Code": "KeyN"
+  },
+  {
+    "Symbol": "Next",
+    "Code": "MediaTrackNext"
+  },
+  {
+    "Symbol": "NumLock",
+    "Code": "NumLock"
+  },
+  {
+    "Symbol": "O",
+    "Code": "KeyO"
+  },
+  {
+    "Symbol": "P",
+    "Code": "KeyP"
+  },
+  {
+    "Symbol": "Pause",
+    "Code": "Pause"
+  },
+  {
+    "Symbol": "Prev",
+    "Code": "MediaTrackPrevious"
+  },
+  {
+    "Symbol": "Q",
+    "Code": "KeyQ"
+  },
+  {
+    "Symbol": "R",
+    "Code": "KeyR"
+  },
+  {
+    "Symbol": "S",
+    "Code": "KeyS"
+  },
+  {
+    "Symbol": "ScrollLock",
+    "Code": "ScrollLock"
+  },
+  {
+    "Symbol": "Shift",
+    "Code": "ShiftLeft"
+  },
+  {
+    "Symbol": "Shift",
+    "Code": "ShiftRight"
+  },
+  {
+    "Symbol": "Space",
+    "Code": "Space"
+  },
+  {
+    "Symbol": "T",
+    "Code": "KeyT"
+  },
+  {
+    "Symbol": "Tab",
+    "Code": "Tab"
+  },
+  {
+    "Symbol": "U",
+    "Code": "KeyU"
+  },
+  {
+    "Symbol": "V",
+    "Code": "KeyV"
+  },
+  {
+    "Symbol": "Vol -",
+    "Code": "VolumeDown"
+  },
+  {
+    "Symbol": "Vol +",
+    "Code": "VolumeUp"
+  },
+  {
+    "Symbol": "W",
+    "Code": "KeyW"
+  },
+  {
+    "Symbol": "WakeUp",
+    "Code": "WakeUp"
+  },
+  {
+    "Symbol": "X",
+    "Code": "KeyX"
+  },
+  {
+    "Symbol": "Y",
+    "Code": "KeyY"
+  },
+  {
+    "Symbol": "Z",
+    "Code": "KeyZ"
+  }
+]
