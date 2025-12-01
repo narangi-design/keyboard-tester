@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.464392mm"
+   height="22.464384mm"
+   viewBox="0 0 22.464392 22.464384"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="logo.svg"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-77.841677,-73.139845)">
+    <g
+       id="g1"
+       transform="matrix(0.29655177,0,0,0.29655177,71.954466,57.182385)"
+       inkscape:export-filename="logo.svg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       style="stroke-width:3.37209">
+      <rect
+         style="fill:#607d8b;fill-opacity:1;stroke-width:10.1163;stroke-linecap:round;paint-order:fill markers stroke"
+         id="rect1"
+         width="75.751984"
+         height="75.751984"
+         x="19.852242"
+         y="53.810028" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.8537px;line-height:1.25;font-family:BauhausDemiC;-inkscape-font-specification:'BauhausDemiC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#eceff1;fill-opacity:1;stroke:none;stroke-width:0.892198"
+         x="30.281391"
+         y="115.43183"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.8537px;font-family:BauhausDemiC;-inkscape-font-specification:'BauhausDemiC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eceff1;fill-opacity:1;stroke-width:0.892198"
+           x="30.281391"
+           y="115.43183">kt</tspan></text>
+    </g>
+  </g>
+</svg>
