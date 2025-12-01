@@ -1,16 +1,22 @@
-# React + Vite
+# Keyboard Tester (React + TypeScript)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a learning project built with React and TypeScript.  
+The application works as a simple keyboard tester: it listens to key presses, highlights active keys, and keeps their “pressed” state even after the key is released. The state resets only when the page is refreshed.
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Visual feedback for key presses and key releases  
+- Pressed keys remain highlighted until the user manually refreshes the page  
+- Intercepts most browser shortcuts  
+- Exceptions:  
+  - **F11** — browser fullscreen cannot be overridden  
+  - **Win** key — handled by the operating system  
+- Desktop-only interface  
+- Supports only **ANSI 104** keyboard layout
 
-## React Compiler
+## Future Improvements
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Mobile device detection with a message explaining that the tool is desktop-only  
+2. Automatic theme adaptation (light/dark mode)  
+3. Support for additional keyboard layouts  
+4. Logging pressed keys or generating reports
