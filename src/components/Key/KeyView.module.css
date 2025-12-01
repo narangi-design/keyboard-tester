@@ -5,8 +5,9 @@
   text-align: start;
   background: #607D8B;
   color: #ECEFF1;
+
   p {
-    font-size: 13px;
+    font-size: 14px;
     line-height: 1.2;
     font-weight: 600;
     padding: 6px 8px;
@@ -15,10 +16,16 @@
 
 .pressed {
   background-color: #CFD8DC;
-  color: #263238;
+
+  p {
+    color: #263238;
+  }
 }
 
 .tested {
   background-color: #37474F;
-  color: #90A4AE;
+
+  p {
+    color: #90A4AE;
+  }
 }

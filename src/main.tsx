@@ -14,7 +14,8 @@ root.render(
       <App />
     </div>
     <footer>
-      <p>This is a learning project for mastering TypeScript, React, and CSS Modules. The application is designed for desktop use only and currently only checks ANSI-104 standard keyboards.</p>
+      <p>This is a learning project for mastering TypeScript and React. The application is designed for desktop use only and currently only checks ANSI-104 standard keyboards.</p>
+      <p>Check out the <a href="https://github.com/narangi-design/keyboard-tester">project repository on GitHub</a>.</p>
     </footer>
   </StrictMode>,
 )

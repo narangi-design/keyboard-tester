@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 :root {
@@ -54,10 +54,16 @@ body {
 h1 {
   font-size: 3rem;
   line-height: 1.6em;
+  color: #90A4AE;
 }
 
 p {
   line-height: 1.6em;
+  color: #ECEFF1;
+}
+
+a {
+  color: #90A4AE;
 }
 
 .app {
@@ -66,8 +72,8 @@ p {
 
 footer {
   margin-top: auto;
-  padding: 2rem 0;
-  text-align: center;
+  padding: 2rem;
+  text-align: left;
   width: 100vw;
   color: #B0BEC5;
   font-size: 14px;
