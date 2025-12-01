@@ -7,7 +7,14 @@ const root = ReactDOM.createRoot(document.getElementById("root") as HTMLElement)
 
 root.render(
   <StrictMode>
-    <h1>Hello!</h1>
-    <App />
+    <div className="layout">
+      <h1>Test your keyboard</h1>
+      <p>1. F11 won't light up, but you'll know it works when the browser goes fullscreen. :&#41;</p>
+      <p>2. The Windows key will only light up as pressed and steal the focus from the window.</p>
+      <App />
+    </div>
+    <footer>
+      <p>This is a learning project for mastering TypeScript, React, and CSS Modules. The application is designed for desktop use only and currently only checks ANSI-104 standard keyboards.</p>
+    </footer>
   </StrictMode>,
 )

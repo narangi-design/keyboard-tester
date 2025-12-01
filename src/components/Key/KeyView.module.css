@@ -1,0 +1,23 @@
+.key {
+  width: auto;
+  min-width: 3rem;
+  height: 100%;
+  text-align: start;
+  background: #607D8B;
+  color: #ECEFF1;
+  p {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 6px 8px;
+  }
+}
+
+.pressed {
+  background-color: #CFD8DC;
+  color: #263238;
+}
+
+.tested {
+  background-color: #37474F;
+  color: #90A4AE;
+}

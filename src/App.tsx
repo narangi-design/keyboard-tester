@@ -1,16 +1,15 @@
-import './App.css'
-import Keyboard from './components/Keyboard'
-import { Key } from './utils/key'
-import usePressedKeys from './hooks/usePressedKeys'
+import { Keyboard } from './components/Keyboard'
+import { KeyModel } from './components/Key'
+import useKeyStates from './hooks/useKeyStates'
 
 function App() {
-  const keys = Key.getAllKeys()
-  const pressedKeys = usePressedKeys()  
+  const keys = KeyModel.getAllKeys()
+  const keyStates = useKeyStates()
 
   return (
     <>
-      <div className="app">
-        <Keyboard keys={keys} pressedKeys={pressedKeys}></Keyboard>
+      <div className='app'>
+        <Keyboard keys={keys} keyStates={keyStates}></Keyboard>
       </div>
     </>
   )

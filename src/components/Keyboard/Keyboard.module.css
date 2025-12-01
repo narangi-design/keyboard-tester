@@ -1,0 +1,52 @@
+.keyboard {
+  display: grid;
+  grid-template-columns: repeat(94, var(--key-gap));
+  grid-auto-rows: var(--min-key-height);
+  gap: var(--key-gap);
+}
+
+/* Width coefficients */
+.w-4  { grid-column: auto / span 4; }
+.w-5  { grid-column: auto / span 5; }
+.w-6  { grid-column: auto / span 6; }
+.w-7  { grid-column: auto / span 7; }
+.w-8  { grid-column: auto / span 8; }
+.w-9  { grid-column: auto / span 9; }
+.w-10 { grid-column: auto / span 10; }
+.w-11 { grid-column: auto / span 11; }
+.w-26 { grid-column: auto / span 26; }
+
+/* Row positions */
+.r-1 { grid-row: 1; }
+.r-2 { grid-row: 2; }
+.r-3 { grid-row: 3; }
+.r-4 { grid-row: 4; }
+.r-5 { grid-row: 5; }
+.r-6 { grid-row: 6; }
+
+.F1 { grid-column: 8 / span 4; }
+.F5 { grid-column: 27 / span 4; }
+.F9 { grid-column: 46 / span 4; }
+
+.PrintScreen { grid-column: 64 / span 4; }
+.Insert { grid-column: 64 / span 4; }
+.Delete { grid-column: 64 / span 4; }
+
+.ArrowUp { grid-column: 68 / span 4; }
+.ArrowLeft { grid-column: 64 / span 4; }
+
+.NumLock { grid-column: 78 / span 4; }
+
+.Numpad7 { grid-column: 78 / span 4; }
+.NumpadAdd { grid-row: span 2; }
+
+.Numpad4 { grid-column: 78 / span 4; }
+.Numpad5 { grid-column: 82 / span 4; }
+.Numpad6 { grid-column: 86 / span 4; }
+
+.Numpad1 { grid-column: 78 / span 4; }
+.Numpad2 { grid-column: 82 / span 4; }
+.Numpad3 { grid-column: 86 / span 4; }
+.NumpadEnter { grid-column: 90 / span 4; grid-row: span 2; }
+
+.Numpad0 { grid-column: 78 / span 8; }

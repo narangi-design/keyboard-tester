@@ -6,5 +6,10 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: "0.0.0.0",
+  },
+  css: {
+    modules: {
+      generateScopedName: '[local]_[hash:base64:2]'
+    }
   }
 })
