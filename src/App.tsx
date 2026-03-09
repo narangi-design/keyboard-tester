@@ -1,5 +1,6 @@
 import { Keyboard } from './components/Keyboard'
 import { KeyModel } from './components/Key'
+import { MobileOverlay } from './components/MobileOverlay'
 import useKeyStates from './hooks/useKeyStates'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
 
   return (
     <>
+      <MobileOverlay />
       <div className='app'>
         <Keyboard keys={keys} keyStates={keyStates}></Keyboard>
       </div>

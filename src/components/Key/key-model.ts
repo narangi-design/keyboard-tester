@@ -20,7 +20,7 @@ export default class KeyModel {
         this.row = definition.Row
     }
 
-    static getAllKeys() {
+    static getAllKeys(): KeyModel[] {
         return keys.map(definiton => new KeyModel(definiton))
     }
 }
