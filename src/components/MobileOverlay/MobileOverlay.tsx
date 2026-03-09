@@ -15,15 +15,21 @@ export function MobileOverlay() {
   return (
     <div className={styles.overlay}>
       <div className={styles.card}>
-        <div className={styles.icon}>⌨️</div>
-        <h2 className={styles.title}>Только для десктопа</h2>
-        <p className={styles.text}>
+        <img
+          className={styles.icon}
+          src={`${import.meta.env.BASE_URL}logo-300.svg`}
+          alt="Keyboard Tester logo"
+        />
+        <h2>Desktop only</h2>
+        <p>
           Unfortunately, the keyboard tester currently only works on desktop computers.
           Please open this website on a PC or laptop.
         </p>
         <button className={styles.shareButton} onClick={handleShare}>
           Share link
         </button>
+        <p>This is a learning project for mastering TypeScript and React. The application is designed for desktop use only and currently only checks ANSI-104 standard keyboards.</p>
+        <p>Check out the <a href="https://github.com/narangi-design/keyboard-tester">project repository on GitHub</a>.</p>
       </div>
     </div>
   )
